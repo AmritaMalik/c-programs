@@ -23,5 +23,5 @@ This repository contains basic C programs that demonstrate fundamental concepts 
 
 5.)Data Types & Sizes: Understanding memory usage of different types (int, float, char, etc.).
 
-Overflow & Underflow: Demonstrating what happens when a value exceeds the limits of a variable.
+6.)Overflow & Underflow: Demonstrating what happens when a value exceeds the limits of a variable.
 
